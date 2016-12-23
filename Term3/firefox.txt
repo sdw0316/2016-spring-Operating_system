@@ -1,0 +1,242 @@
+      3931   firefox   1061612KB    204536KB     32604Kb	*
+      3966   firefox   1061612KB    204536KB     32604Kb	*
+      3931   firefox   1061612KB    204536KB     32604Kb
+      3966   firefox   1061612KB    204536KB     32604Kb
+      3931   firefox   1061612KB    204536KB     32604Kb
+      3966   firefox   1061612KB    204536KB     32604Kb
+      3931   firefox   1061612KB    204536KB     32604Kb
+      3966   firefox   1061612KB    204536KB     32604Kb
+      3931   firefox   1061612KB    204788KB     32604Kb	*
+      3966   firefox   1061612KB    204788KB     32604Kb	*
+      3931   firefox   1061612KB    204788KB     32604Kb
+      3966   firefox   1061612KB    204788KB     32604Kb
+      3931   firefox   1061612KB    204788KB     32604Kb
+      3966   firefox   1061612KB    204788KB     32604Kb
+      3931   firefox   1061740KB    205576KB     32604Kb	*
+      3966   firefox   1061740KB    205576KB     32604Kb	*
+      3931   firefox   1061740KB    205896KB     32612Kb	*
+      3966   firefox   1061740KB    205896KB     32612Kb	*
+      3931   firefox   1061868KB    206940KB     32612Kb	*
+      3966   firefox   1061868KB    206940KB     32612Kb	*
+      3931   firefox   1061868KB    206940KB     32612Kb
+      3966   firefox   1061868KB    206940KB     32612Kb
+      3931   firefox   1061868KB    207204KB     32612Kb	*
+      3966   firefox   1061868KB    207204KB     32612Kb	*
+      3931   firefox   1061932KB    207992KB     32620Kb	*
+      3966   firefox   1061932KB    207992KB     32620Kb	*
+      3931   firefox   1062060KB    207392KB     32620Kb	*
+      3966   firefox   1062060KB    207392KB     32620Kb	*
+      3931   firefox   1062124KB    208708KB     32620Kb	*
+      3966   firefox   1062124KB    208708KB     32620Kb	*
+      3931   firefox   1062188KB    208972KB     32624Kb	*
+      3966   firefox   1062188KB    208972KB     32624Kb	*
+      3931   firefox   1062380KB    208328KB     32636Kb	*
+      3966   firefox   1062380KB    208328KB     32636Kb	*
+      3931   firefox   1062380KB    209908KB     32652Kb	*
+      3966   firefox   1062380KB    209908KB     32652Kb	*
+      3931   firefox   1062828KB    216760KB     32672Kb	*
+      3966   firefox   1062828KB    216760KB     32672Kb	*
+      3931   firefox   1063148KB    208588KB     32856Kb	*
+      3966   firefox   1063148KB    208588KB     32856Kb	*
+      3931   firefox   1063532KB    217140KB     33016Kb	*
+      3966   firefox   1063532KB    217140KB     33016Kb	*
+      3931   firefox   1063660KB    217108KB     33020Kb	*
+      3966   firefox   1063660KB    217108KB     33020Kb	*
+      3931   firefox   1063724KB    219480KB     33028Kb	*
+      3966   firefox   1063724KB    219480KB     33028Kb	*
+      3931   firefox   1063788KB    220008KB     33044Kb	*
+      3966   firefox   1063788KB    220008KB     33044Kb	*
+      3931   firefox   1063916KB    221032KB     33048Kb	*
+      3966   firefox   1063916KB    221032KB     33048Kb	*
+      3931   firefox   1064044KB    221140KB     33048Kb	*
+      3966   firefox   1064044KB    221140KB     33048Kb	*
+      3931   firefox   1062572KB    215308KB     33072Kb	*
+      3966   firefox   1062572KB    215308KB     33072Kb	*
+      3931   firefox   1062956KB    220880KB     33072Kb	*
+      3966   firefox   1062956KB    220880KB     33072Kb	*
+      3931   firefox   1063020KB    221140KB     33072Kb	*
+      3966   firefox   1063020KB    221140KB     33072Kb	*
+      3931   firefox   1063276KB    222460KB     33084Kb	*
+      3966   firefox   1063276KB    222460KB     33084Kb	*
+      3931   firefox   1063276KB    219808KB     33088Kb	*
+      3966   firefox   1063276KB    219808KB     33088Kb	*
+      3931   firefox   1063532KB    221120KB     33088Kb	*
+      3966   firefox   1063532KB    221120KB     33088Kb	*
+      3931   firefox   1063916KB    220592KB     33088Kb	*
+      3966   firefox   1063916KB    220592KB     33088Kb	*
+      3931   firefox   1064172KB    227072KB     33088Kb	*
+      3966   firefox   1064172KB    227072KB     33088Kb	*
+      3931   firefox   1064172KB    227072KB     33088Kb
+      3966   firefox   1064172KB    227072KB     33088Kb
+      3931   firefox   1064172KB    227072KB     33088Kb
+      3966   firefox   1064172KB    227072KB     33088Kb
+      3931   firefox   1064172KB    225260KB     33088Kb	*
+      3966   firefox   1064172KB    225260KB     33088Kb	*
+      3931   firefox   1062060KB    218588KB     33092Kb	*
+      3966   firefox   1062060KB    218588KB     33092Kb	*
+      3931   firefox   1062060KB    218588KB     33092Kb
+      3966   firefox   1062060KB    218588KB     33092Kb
+      3931   firefox   1070768KB    222456KB     33100Kb	*
+      3966   firefox   1070768KB    222456KB     33100Kb	*
+      3931   firefox   1071152KB    224216KB     33284Kb	*
+      3966   firefox   1071152KB    224216KB     33284Kb	*
+      3931   firefox   1071536KB    227556KB     33284Kb	*
+      3966   firefox   1071536KB    227556KB     33284Kb	*
+      3931   firefox   1071536KB    222656KB     33284Kb	*
+      3966   firefox   1071536KB    222656KB     33284Kb	*
+      3931   firefox   1071600KB    222920KB     33284Kb	*
+      3966   firefox   1071600KB    222920KB     33284Kb	*
+      3931   firefox   1071664KB    218788KB     33284Kb	*
+      3966   firefox   1071664KB    218788KB     33284Kb	*
+      3931   firefox   1071664KB    218788KB     33284Kb
+      3966   firefox   1071664KB    218788KB     33284Kb
+      3931   firefox   1071664KB    218788KB     33284Kb
+      3966   firefox   1071664KB    218788KB     33284Kb
+      3931   firefox   1071920KB    216288KB     33384Kb	*
+      3966   firefox   1071920KB    216288KB     33384Kb	*
+      3931   firefox   1070448KB    212144KB     33384Kb	*
+      3966   firefox   1070448KB    212144KB     33384Kb	*
+      3931   firefox   1070704KB    211980KB     33392Kb	*
+      3966   firefox   1070704KB    211980KB     33392Kb	*
+      3931   firefox   1070832KB    212768KB     33392Kb	*
+      3966   firefox   1070832KB    212768KB     33392Kb	*
+      3931   firefox   1070896KB    213036KB     33392Kb	*
+      3966   firefox   1070896KB    213036KB     33392Kb	*
+      3931   firefox   1071152KB    214044KB     33392Kb	*
+      3966   firefox   1071152KB    214304KB     33392Kb	*
+      3931   firefox   1071032KB    211992KB     33712Kb	*
+      3966   firefox   1071032KB    211992KB     33712Kb	*
+      3931   firefox   1071416KB    219188KB     33712Kb	*
+      3966   firefox   1071416KB    219188KB     33712Kb	*
+      3931   firefox   1071480KB    215472KB     33712Kb	*
+      3966   firefox   1071480KB    215472KB     33712Kb	*
+      3931   firefox   1071480KB    216612KB     33712Kb	*
+      3966   firefox   1071480KB    216612KB     33712Kb	*
+      3931   firefox   1071480KB    216612KB     33712Kb
+      3966   firefox   1071480KB    216872KB     33712Kb	*
+      3931   firefox   1071544KB    214496KB     33712Kb	*
+      3966   firefox   1071544KB    214496KB     33712Kb	*
+      3931   firefox   1069304KB    209552KB     33712Kb	*
+      3966   firefox   1069304KB    209552KB     33712Kb	*
+      3931   firefox   1069304KB    209552KB     33712Kb
+      3966   firefox   1069304KB    209552KB     33712Kb
+      3931   firefox   1069304KB    209552KB     33712Kb
+      3966   firefox   1069304KB    209552KB     33712Kb
+      3931   firefox   1069304KB    210336KB     33712Kb	*
+      3966   firefox   1069304KB    210336KB     33712Kb	*
+      3931   firefox   1069304KB    210336KB     33712Kb
+      3966   firefox   1069304KB    210336KB     33712Kb
+      3931   firefox   1069368KB    210336KB     33712Kb
+      3966   firefox   1069368KB    210336KB     33712Kb
+      3931   firefox   1069368KB    209092KB     33712Kb	*
+      3966   firefox   1069368KB    209092KB     33712Kb	*
+      3931   firefox   1069624KB    207544KB     33712Kb	*
+      3966   firefox   1069624KB    207544KB     33712Kb	*
+      3931   firefox   1069624KB    207544KB     33712Kb
+      3966   firefox   1069624KB    207544KB     33712Kb
+      3931   firefox   1069624KB    207544KB     33712Kb
+      3966   firefox   1069624KB    207544KB     33712Kb
+      3931   firefox   1069752KB    208076KB     33716Kb	*
+      3966   firefox   1069752KB    208076KB     33716Kb	*
+      3931   firefox   1069816KB    208348KB     33716Kb	*
+      3966   firefox   1069816KB    208348KB     33716Kb	*
+      3931   firefox   1069816KB    208880KB     33716Kb	*
+      3966   firefox   1069816KB    208880KB     33716Kb	*
+      3931   firefox   1069880KB    209668KB     33716Kb	*
+      3966   firefox   1069880KB    209668KB     33716Kb	*
+      3931   firefox   1078716KB    214420KB     33716Kb	*
+      3966   firefox   1078780KB    214420KB     33716Kb	*
+      3931   firefox   1079484KB    218696KB     33720Kb	*
+      3966   firefox   1079484KB    218696KB     33720Kb	*
+      3931   firefox   1079548KB    220208KB     33720Kb	*
+      3966   firefox   1079548KB    220208KB     33720Kb	*
+      3931   firefox   1073096KB    219208KB     33444Kb	*
+      3966   firefox   1073096KB    219208KB     33444Kb	*
+      3931   firefox   1073096KB    219208KB     33444Kb
+      3966   firefox   1073096KB    219208KB     33444Kb
+      3931   firefox   1073160KB    219736KB     33444Kb	*
+      3966   firefox   1073160KB    219736KB     33444Kb	*
+      3931   firefox   1073160KB    215764KB     33444Kb	*
+      3966   firefox   1073160KB    215764KB     33444Kb	*
+      3931   firefox   1070600KB    210904KB     33444Kb	*
+      3966   firefox   1070600KB    210904KB     33444Kb	*
+      3931   firefox   1070728KB    211692KB     33444Kb	*
+      3966   firefox   1070728KB    211692KB     33444Kb	*
+      3931   firefox   1070792KB    211692KB     33444Kb
+      3966   firefox   1070792KB    211692KB     33444Kb
+      3931   firefox   1070728KB    212732KB     33444Kb	*
+      3966   firefox   1070728KB    212732KB     33444Kb	*
+      3931   firefox   1070728KB    208020KB     33444Kb	*
+      3966   firefox   1070728KB    208020KB     33444Kb	*
+      3931   firefox   1070728KB    208020KB     33444Kb
+      3966   firefox   1070728KB    208020KB     33444Kb
+      3931   firefox   1070728KB    208544KB     33444Kb	*
+      3966   firefox   1070728KB    208544KB     33444Kb	*
+      3931   firefox   1070728KB    205876KB     33444Kb	*
+      3966   firefox   1070728KB    205876KB     33444Kb	*
+      3931   firefox   1070728KB    205876KB     33444Kb
+      3966   firefox   1070728KB    205876KB     33444Kb
+      3931   firefox   1070728KB    205876KB     33444Kb
+      3966   firefox   1070728KB    205876KB     33444Kb
+      3931   firefox   1070728KB    203676KB     33444Kb	*
+      3966   firefox   1070728KB    203676KB     33444Kb	*
+      3931   firefox   1070280KB    203240KB     33444Kb	*
+      3966   firefox   1070280KB    203240KB     33444Kb	*
+      3931   firefox   1070536KB    204816KB     33444Kb	*
+      3966   firefox   1070536KB    204816KB     33444Kb	*
+      3931   firefox   1070536KB    204816KB     33444Kb
+      3966   firefox   1070536KB    204816KB     33444Kb
+      3931   firefox   1070536KB    204816KB     33444Kb
+      3966   firefox   1070536KB    204816KB     33444Kb
+      3931   firefox   1070536KB    204816KB     33444Kb
+      3966   firefox   1070536KB    204816KB     33444Kb
+      3931   firefox   1070536KB    203144KB     33444Kb	*
+      3966   firefox   1070536KB    203144KB     33444Kb	*
+      3931   firefox   1070536KB    203144KB     33444Kb
+      3966   firefox   1070536KB    203144KB     33444Kb
+      3931   firefox   1070536KB    199144KB     33444Kb	*
+      3966   firefox   1070536KB    199144KB     33444Kb	*
+      3931   firefox   1070600KB    199144KB     33444Kb
+      3966   firefox   1070600KB    199144KB     33444Kb
+      3931   firefox   1070600KB    199936KB     33444Kb	*
+      3966   firefox   1070600KB    199936KB     33444Kb	*
+      3931   firefox   1070600KB    199936KB     33444Kb
+      3966   firefox   1070600KB    199936KB     33444Kb
+      3931   firefox   1070600KB    199936KB     33444Kb
+      3966   firefox   1070600KB    199936KB     33444Kb
+      3931   firefox   1070600KB    200460KB     33444Kb	*
+      3966   firefox   1070600KB    200460KB     33444Kb	*
+      3931   firefox   1070600KB    200460KB     33444Kb
+      3966   firefox   1070600KB    200460KB     33444Kb
+      3931   firefox   1070600KB    200460KB     33444Kb
+      3966   firefox   1070600KB    200460KB     33444Kb
+      3931   firefox   1070600KB    200460KB     33444Kb
+      3966   firefox   1070600KB    200460KB     33444Kb
+      3931   firefox   1070600KB    200460KB     33444Kb
+      3966   firefox   1070600KB    200460KB     33444Kb
+      3931   firefox   1070600KB    200460KB     33444Kb
+      3966   firefox   1070600KB    200460KB     33444Kb
+      3931   firefox   1070536KB    200496KB     33444Kb	*
+      3966   firefox   1070536KB    200496KB     33444Kb	*
+      3931   firefox   1070536KB    200496KB     33444Kb
+      3966   firefox   1070536KB    200496KB     33444Kb
+      3931   firefox   1070536KB    200496KB     33444Kb
+      3966   firefox   1070536KB    200496KB     33444Kb
+      3931   firefox   1070536KB    200496KB     33444Kb
+      3966   firefox   1070536KB    200496KB     33444Kb
+      3931   firefox   1070536KB    200760KB     33444Kb	*
+      3966   firefox   1070536KB    200760KB     33444Kb	*
+      3931   firefox   1070664KB    199720KB     33444Kb	*
+      3966   firefox   1070664KB    199720KB     33444Kb	*
+      3931   firefox   1070664KB    199720KB     33444Kb
+      3966   firefox   1070664KB    199720KB     33444Kb
+      3931   firefox   1070664KB    199720KB     33444Kb
+      3966   firefox   1070664KB    199720KB     33444Kb
+      3931   firefox   1070728KB    200632KB     33444Kb	*
+      3966   firefox   1070728KB    200632KB     33444Kb	*
+      3931   firefox   1070728KB    200632KB     33444Kb
+      3966   firefox   1070728KB    200632KB     33444Kb
+      3931   firefox   1070728KB    201684KB     33444Kb	*
+      3966   firefox   1070728KB    201684KB     33444Kb	*
+      3931   firefox   1070732KB    201944KB     33448Kb	*
+      3966   firefox   1070732KB    201944KB     33448Kb	*

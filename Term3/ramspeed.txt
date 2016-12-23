@@ -1,0 +1,91 @@
+      4218  ramspeed      4388KB       356KB       276Kb	*
+      4218  ramspeed      4388KB       356KB       276Kb
+      4218  ramspeed      4388KB       356KB       276Kb
+      4218  ramspeed      4388KB       356KB       276Kb
+      4218  ramspeed      4388KB       612KB       504Kb	*
+      4218  ramspeed      4388KB       612KB       504Kb
+      4218  ramspeed      4388KB       612KB       504Kb
+      4218  ramspeed      4648KB       876KB       504Kb	*
+      4218  ramspeed      4904KB       988KB       504Kb	*
+      4218  ramspeed      5416KB      1516KB       504Kb	*
+      4218  ramspeed      6440KB      2572KB       504Kb	*
+      4218  ramspeed      8488KB      4616KB       504Kb	*
+      4218  ramspeed      8488KB      4616KB       504Kb
+      4218  ramspeed     12584KB      8704KB       504Kb	*
+      4218  ramspeed     12584KB      8704KB       504Kb
+      4218  ramspeed     20776KB     16880KB       504Kb	*
+      4218  ramspeed     37160KB     33496KB       504Kb	*
+      4218  ramspeed     37160KB     33496KB       504Kb
+      4219  ramspeed      4388KB       356KB       276Kb	*
+      4219  ramspeed      4388KB       612KB       512Kb	*
+      4219  ramspeed      4388KB       612KB       512Kb
+      4219  ramspeed      4388KB       612KB       512Kb
+      4219  ramspeed      4904KB       996KB       512Kb	*
+      4219  ramspeed      5416KB      1524KB       512Kb	*
+      4219  ramspeed      6440KB      2580KB       512Kb	*
+      4219  ramspeed      8488KB      4624KB       512Kb	*
+      4219  ramspeed     12584KB      8712KB       512Kb	*
+      4219  ramspeed     20776KB     16888KB       512Kb	*
+      4219  ramspeed     20776KB     16888KB       512Kb
+      4219  ramspeed     37160KB     33504KB       512Kb	*
+      4220  ramspeed     69800KB     65984KB       464Kb	*
+      4220  ramspeed     69800KB     65984KB       464Kb
+      4220  ramspeed     69800KB     65984KB       464Kb
+      4220  ramspeed     69800KB     65984KB       492Kb
+      4220  ramspeed     69800KB     65984KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb	*
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4220  ramspeed    102572KB     98636KB       492Kb
+      4221  ramspeed      4388KB       356KB       276Kb	*
+      4221  ramspeed      4388KB       356KB       276Kb
+      4221  ramspeed      4388KB       356KB       276Kb
+      4221  ramspeed      4388KB       612KB       512Kb	*
+      4221  ramspeed      4388KB       612KB       512Kb
+      4221  ramspeed      4388KB       612KB       512Kb
+      4221  ramspeed      4388KB       612KB       512Kb
+      4221  ramspeed      4648KB       876KB       512Kb	*
+      4221  ramspeed      4904KB       996KB       512Kb	*
+      4221  ramspeed      5416KB      1524KB       512Kb	*
+      4221  ramspeed      6440KB      2580KB       512Kb	*
+      4221  ramspeed      8488KB      4624KB       512Kb	*
+      4221  ramspeed      8488KB      4624KB       512Kb
+      4221  ramspeed     12584KB      8712KB       512Kb	*
+      4221  ramspeed     20776KB      3836KB       512Kb	*
+      4221  ramspeed     20776KB     16888KB       512Kb	*
+      4221  ramspeed     37160KB     33504KB       512Kb	*
+      4221  ramspeed     37160KB     33504KB       512Kb
+      4222  ramspeed      4388KB       356KB       276Kb	*
+      4222  ramspeed      4388KB       612KB       512Kb	*
+      4222  ramspeed      4388KB       612KB       512Kb
+      4222  ramspeed      4388KB       612KB       512Kb
+      4222  ramspeed      4904KB       996KB       512Kb	*
+      4222  ramspeed      5416KB      1524KB       512Kb	*
+      4222  ramspeed      6440KB      2580KB       512Kb	*
+      4222  ramspeed      8488KB      4624KB       512Kb	*
+      4222  ramspeed      8488KB      4624KB       512Kb
+      4222  ramspeed     12584KB      8712KB       512Kb	*
+      4222  ramspeed     20776KB     16888KB       512Kb	*
+      4222  ramspeed     37160KB     33504KB       512Kb	*
+      4222  ramspeed     37160KB     33504KB       512Kb
+      4223  ramspeed     69800KB     65892KB       464Kb	*
+      4223  ramspeed     69800KB     65892KB       464Kb
+      4223  ramspeed     69800KB     65892KB       464Kb
+      4223  ramspeed     69800KB     65892KB       464Kb
+      4223  ramspeed     69800KB     66096KB       492Kb	*
+      4223  ramspeed     69800KB     66096KB       492Kb
+      4223  ramspeed     69800KB     66096KB       492Kb
+      4223  ramspeed     69800KB     66096KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb	*
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
+      4223  ramspeed    102572KB     98896KB       492Kb
